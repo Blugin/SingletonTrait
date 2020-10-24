@@ -1,6 +1,6 @@
 ---
 name: singleton-trait
-antigen: blugin\traits\singleton
+antigen: kim\present\traits\singleton
 version: 1.0.0
 api: 3.0.0
 authors: [PresentKim, Blugin-team]
